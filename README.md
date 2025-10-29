@@ -47,7 +47,7 @@ struct Card {
 ![WhatsApp Image 2025-10-29 at 13 55 22_de6fcc9d](https://github.com/user-attachments/assets/84331858-ec54-499f-af68-d12df81af97c)
 
 
-
+Contract Link: https://celo-sepolia.blockscout.com/address/0x07328EEa6B5548180C145d89eE91689CD9a02BF0
 
 ### Key Variables
 
