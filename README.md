@@ -1,8 +1,3 @@
-Here’s a clean and professional **README.md** file for your Solidity project:
-
----
-
-````markdown
 # 🎴 Gambler Smart Contract
 
 A simple **Ethereum smart contract** that simulates drawing random playing cards on the blockchain.  
